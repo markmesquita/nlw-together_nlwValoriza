@@ -1,5 +1,5 @@
 import "reflect-metadata";
-import express from "express";
+import express from  "express";
 
 import { router } from "./routes";
 
